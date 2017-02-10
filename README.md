@@ -6,7 +6,10 @@
 # 一、基础问题
 
 **题目1.1：**[图片加水印](https://mmmxcc.cn/2016/12/16/%E7%AC%AC%E4%B8%80%E9%A2%98%EF%BC%9APython%E5%9B%BE%E7%89%87%E6%B7%BB%E5%8A%A0%E6%B0%B4%E5%8D%B0/)，类似于微信未读信息数量那种提示效果
+
 ![头像](http://cdn.mmmxcc.cn/blog/20161216/115246388.jpg?imageMogr2/thumbnail/!80p)
+
+
 **题目1.2：**[使用 Python 如何生成 200 个激活码（或者优惠券）](https://mmmxcc.cn/2017/02/07/%E7%AC%AC%E4%BA%8C%E9%A2%98%EF%BC%9A%E4%BD%BF%E7%94%A8-Python-%E5%A6%82%E4%BD%95%E7%94%9F%E6%88%90-200-%E4%B8%AA%E6%BF%80%E6%B4%BB%E7%A0%81/)
 
 **题目1.3**：[将 0002 题生成的 200 个激活码（或者优惠券）保存到 **MySQL** 关系型数据库中。 ](https://mmmxcc.cn/2017/02/10/%E7%AC%AC%E4%B8%89%E9%A2%98%EF%BC%9A%E5%B0%86200%E4%B8%AA%E6%BF%80%E6%B4%BB%E7%A0%81%E4%BF%9D%E5%AD%98%E5%88%B0-MySQL/)
