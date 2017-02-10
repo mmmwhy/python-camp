@@ -3,7 +3,7 @@
 > 参考代码一同附上，分析过程见[李飞阳](https://mmmxcc.cn/tags/Python%E7%BB%83%E4%B9%A0%E9%A2%98/)，请多指教。
 
 ---
- # 一、基础问题
+# 一、基础问题
 
 **题目1.1：**[图片加水印](https://mmmxcc.cn/2016/12/16/%E7%AC%AC%E4%B8%80%E9%A2%98%EF%BC%9APython%E5%9B%BE%E7%89%87%E6%B7%BB%E5%8A%A0%E6%B0%B4%E5%8D%B0/)，类似于微信未读信息数量那种提示效果
 ![头像](http://cdn.mmmxcc.cn/blog/20161216/115246388.jpg?imageMogr2/thumbnail/!80p)
@@ -72,14 +72,14 @@
 
 **题目3.1：**一个HTML文件，找出里面的**正文**。
 
-**题目3.2：**一个HTML文件，找出里面的**链接**。
+**题目3.2：**[一个HTML文件，找出里面的**链接**。](https://mmmxcc.cn/2016/12/13/%E6%8F%90%E5%8F%96%E7%BD%91%E9%A1%B5%E4%BF%A1%E6%81%AF/)
 
 **题目3.3：** 用 Python 写一个爬图片的程序，可以参考[Python爬取图片（使用urllib2）](https://mmmxcc.cn/2016/12/15/Python%E7%88%AC%E5%8F%96%E5%9B%BE%E7%89%87%EF%BC%88%E4%BD%BF%E7%94%A8urllib2%EF%BC%89/)，如果出现难题，可以尝试[selenium自动化测试工具](https://mmmxcc.cn/2016/12/29/%E4%BD%BF%E7%94%A8Python-selenium%E5%A4%84%E7%90%86%E9%A1%B5%E9%9D%A2%E5%BB%B6%E8%BF%9F%E5%8A%A0%E8%BD%BD%E9%97%AE%E9%A2%98/)
 
 
 
 ---
-#  Web问题
+#  四、Web问题
 
 **题目4.1：** 使用 Python 的 Web 框架，做一个 Web 版本 留言簿 应用。
 
@@ -94,4 +94,4 @@
 
 
 
-**很多题目来自 [易枭寒的Github](https://github.com/Yixiaohan)**
+**题目来自 [易枭寒的Github](https://github.com/Yixiaohan)**
