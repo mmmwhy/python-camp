@@ -1,6 +1,6 @@
 ## Python 练习册 ##
 
-> 题目来自 [易枭寒的Github](https://github.com/Yixiaohan)，排版实在是忍受不能。参考代码又比较混乱，因此我重新整理一下，顺便将分析过程和代码一同分享。
+> 参考代码一同附上，分析过程见[李飞阳](https://mmmxcc.cn/tags/Python%E7%BB%83%E4%B9%A0%E9%A2%98/)，请多指教。
 
 ---
  
@@ -189,3 +189,7 @@
     STT API Google API
 
 3:文本-->电脑命令
+
+---
+
+**题目来自 [易枭寒的Github](https://github.com/Yixiaohan)**
