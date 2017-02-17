@@ -24,7 +24,7 @@
 
 - [阅读资料](http://stackoverflow.com/questions/2823316/generate-a-random-letter-in-python) 
 
-**题目1.7：** 敏感词文本文件 filtered_words.txt，里面的内容为以下内容，当用户输入敏感词语时，则打印出 Freedom，否则打印出 Human Rights。
+**题目1.7：**[ 敏感词文本文件 filtered_words.txt，里面的内容为以下内容，当用户输入敏感词语时，则打印出 Freedom，否则打印出 Human Rights。](https://feiyang.li/2017/02/15/python-camp7/)
 
     北京
     程序员
@@ -38,7 +38,7 @@
     sex
     jiangge
 
-**题目1.8：** 纯文本文件 student.txt为学生信息, 里面的内容（包括花括号）如下所示：
+**题目1.8：** [纯文本文件 student.txt为学生信息, 里面的内容（包括花括号）如下所示：](https://feiyang.li/2017/02/15/python-camp8/)
 
     {
         "1":["张三",150,120,100],
@@ -52,7 +52,7 @@
 
 - [阅读资料](http://www.cnblogs.com/skynet/archive/2013/05/06/3063245.html) 腾讯游戏开发 XML 和 Excel 内容相互转换
 
-**题目1.9：** 通常，登陆某个网站或者 APP，需要使用用户名和密码。密码是如何加密后存储起来的呢？请使用 Python 对密码加密。
+**题目1.9：** [通常，登陆某个网站或者 APP，需要使用用户名和密码。密码是如何加密后存储起来的呢？请使用 Python 对密码加密。](https://feiyang.li/2017/02/16/python-camp9/)
 
 - 阅读资料 [用户密码的存储与 Python 示例](http://zhuoqiang.me/password-storage-and-python-example.html)
 
@@ -63,7 +63,7 @@
 ---
 # 二、数据分析
 
-**题目2.1：**你有一个目录，放了你一个月的日记，都是 txt，为了避免分词的问题，假设内容都是英文，请统计出你认为每篇日记最重要的词。
+**题目2.1：**[你有一个目录，放了你一个月的日记，都是 txt，为了避免分词的问题，假设内容都是英文，请统计出你认为每篇日记最重要的词。](https://feiyang.li/2017/02/17/python-camp2-1/)
 
 **题目2.2：**有个目录，里面是你自己写过的程序，统计一下你写过多少行代码。包括空行和注释，但是要分别列出来。
 
