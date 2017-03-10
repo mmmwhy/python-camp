@@ -1,6 +1,12 @@
+---
+title: Python练习册
+date: 2016-12-31 11:35:04
+tags: [Python,Python_camp]
+---
 > [参考代码](https://github.com/mmmwhy/python-camp)一同附上，分析过程见[李飞阳](http://feiyang.li/tags/Python-camp/)，请多指教。
 
 ---
+
 
 # 一、基础问题
 
@@ -60,6 +66,8 @@
 
 - 阅读资料 [Python's safest method to store and retrieve passwords from a database](http://stackoverflow.com/questions/2572099/pythons-safest-method-to-store-and-retrieve-passwords-from-a-database)
 
+**题目1.10：** [python输入二维数组](http://feiyang.li/2017/03/10/python-input/)
+
 ---
 # 二、数据分析
 
@@ -76,7 +84,7 @@
 
 **题目3.2：**[一个HTML文件，找出里面的**链接**。](http://feiyang.li/2016/12/13/get_html/)
 
-**题目3.3：** 用 Python 写一个爬图片的程序，可以参考[Python爬取图片（使用urllib2）](hhttp://feiyang.li/2016/12/15/Python_use_urllib2/)，如果出现问题，可以尝试[selenium自动化测试工具](http://feiyang.li/2016/12/29/Python-selenium/)
+**题目3.3：** 用 Python 写一个爬图片的程序，可以参考[Python爬取图片（使用urllib2）](http://feiyang.li/2016/12/15/Python_use_urllib2/)，如果出现问题，可以尝试[selenium自动化测试工具](http://feiyang.li/2016/12/29/Python-selenium/)
 
 
 
