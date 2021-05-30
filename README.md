@@ -7,7 +7,7 @@
 
 **题目1.1：**[图片加水印](https://iii.run/archives/39.html)，类似于微信未读信息数量那种提示效果
 
-![头像](https://cdn.mmmxcc.cn/blog/20161216/115246388.jpg)
+![头像](https://cdn.lifeiyang.cn/blog/20161216/115246388.jpg)
 
 
 **题目1.2：**[使用 Python 如何生成 200 个激活码（或者优惠券）](https://iii.run/archives/38.html)
@@ -21,7 +21,7 @@
 
 **题目1.6：**[使用 Python 生成类似于下图中的**字母验证码图片**](https://iii.run/archives/53.html)
 
-![字母验证码](https://cdn.mmmxcc.cn/blog/20170210/164221438.png)
+![字母验证码](https://cdn.lifeiyang.cn/blog/20170210/164221438.png)
 
 - [阅读资料](http://stackoverflow.com/questions/2823316/generate-a-random-letter-in-python) 
 
@@ -49,7 +49,7 @@
 
 请将上述内容写到 student.xls 文件中，如下图所示：
 
-![student.xls](https://cdn.mmmxcc.cn/blog/20170210/164341562.png)
+![student.xls](https://cdn.lifeiyang.cn/blog/20170210/164341562.png)
 
 - [阅读资料](http://www.cnblogs.com/skynet/archive/2013/05/06/3063245.html) 腾讯游戏开发 XML 和 Excel 内容相互转换
 
@@ -90,12 +90,12 @@
 
 [阅读资料：Python 有哪些 Web 框架](http://v2ex.com/t/151643#reply53)
 
-- ![留言簿参考](https://cdn.mmmxcc.cn/blog/20170210/164432170.png)
+- ![留言簿参考](https://cdn.lifeiyang.cn/blog/20170210/164432170.png)
 
 
 **题目4.2：** 使用 Python 的 Web 框架，做一个 Web 版本 TodoList 应用。
 
-- ![SpringSide 版TodoList](https://cdn.mmmxcc.cn/blog/20170210/164451954.png)
+- ![SpringSide 版TodoList](https://cdn.lifeiyang.cn/blog/20170210/164451954.png)
 
 
 
